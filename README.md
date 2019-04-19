@@ -1,4 +1,7 @@
-# MySQL Basic Command #
+# Introduction to database #
+## Introduction ##
+This is a record of the course, Introduciton to Database, held in NCTU at 2019 Spring.
+## MySQL Basic Command ##
 ### Create database ###
 	CREATE DATABASE database_name;
 ___
